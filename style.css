@@ -10,3 +10,8 @@ h4{
     text-align: center;
     line-height: 2;
 }
+canvas{
+    border: 3px solid wheat;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
